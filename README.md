@@ -17,10 +17,10 @@ The two documents here log the brainstorming processes and log of work done on t
 > **PLEASE LOOK THROUGH THESE DOCUMENTS AS THEY LIST ANY SOURCES USED TO ASSIST IN DEVELOPMENT. SMALLER HELP, E.G., MODIFICATIONS TO LINES OF CODE CAN BE FOUND WITHIN THE SCRIPT COMMENTS THEMSELVES**
 
 - **Original Plan:**  
-  [Google Doc (Original Plan)](https://docs.google.com/document/d/178bNaOrG9rv8VMFu03LfapBZ89nZCcPksNQyUL_pN-w/edit?tab=t.0)
+  [Google Doc (Original Plan)](https://docs.google.com/document/d/e/2PACX-1vQj62I7sYeUfw3FF2S6yc89A8JLa1dPV4zUPNbPaciHvoxTC99BYMWhsZZ3UFHlj9HHeWmBw2keRctf/pub)
 
 - **Project Log:** (ALSO NOTES THE SOURCES USED, eg, video guides to understand use of Unity and whether AI was used to assist in certain areas, eg, debugging)  
-  [Google Doc (Project Log)](https://docs.google.com/document/d/1BGw74vBqPUo8az7fUET9cM6GBviog8ETwIGK9uRwt7A/edit?tab=t.0)
+  [Google Doc (Project Log)](https://docs.google.com/document/d/e/2PACX-1vTl2AZA8W2CqKLjB0I8yRrVyJ8rFtZ_AzvSn7ZmAb-31clnQM_pchyfXNylF85Ac49L7IPT2jZN3-cd/pub)
 
 ---
 
