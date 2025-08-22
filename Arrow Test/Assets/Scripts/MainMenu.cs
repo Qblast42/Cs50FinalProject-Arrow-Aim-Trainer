@@ -23,11 +23,4 @@ public class MainMenu : MonoBehaviour
         highscoreText.text = "Current Highscore: " + PlayerHighscore.ToString();
         // Ensure ScoreController.highscore is public static int highscore in ScoreController.cs
     }
-
-    //Exits the game for exit button press
-    public void QuitGame()
-    {
-        Debug.Log("QUIT");
-        Application.Quit();
-    }
 }
