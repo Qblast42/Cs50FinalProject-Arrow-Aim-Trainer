@@ -81,6 +81,8 @@ Locks the cursor to the crosshair and links mouse X & Y movement to camera movem
 - The first script that runs on game start will unlock the cursor and make it visible to allow it to move again if returning from the game.
 - Using functions will load the game scene when the start button is pressed.
 - While not in a script itself, the settings button has code set in the editor to make the settings menu active while deactivating the main menu; the exit button in the menu will do the inverse.
+### Quit Game
+- quits the game when the quit button is pressed
 
 ---
 
@@ -90,6 +92,12 @@ Each of its variables has been set as public static values so they can be access
 
 ---
 
+### Asset Credits
+
+- [Target Model](https://sketchfab.com/3d-models/target-c858dc63d7ae48a4be328c4c30a7e867#download)
+- [Bow and Arrow Model](https://sketchfab.com/3d-models/minecraft-bow-ef9c440fc9cc4a24b701f5128cd3a798)
+- [Tree models](https://sketchfab.com/3d-models/low-poly-tree-a65141ab47d04842b36009434476c6c2)
+- [Crosshair](https://www.flaticon.com/free-icon/crosshair_2659018?term=crosshair&page=1&position=1&origin=style&related_id=2659018)
 
 
 
