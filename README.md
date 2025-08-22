@@ -72,6 +72,7 @@ Locks the cursor to the crosshair and links mouse X & Y movement to camera movem
 
 - Uses TMPpro to update the timer based on the remaining time value that begins at 60 seconds.
 - Uses `Mathf.FloorToInt((remainingTime / 60) or (remainingTime % 60))` to find both the seconds and minutes remaining.
+- When the timer reaches 0 or when the esc is pressed, the game ends and returns to the menu.
 
 ---
 
