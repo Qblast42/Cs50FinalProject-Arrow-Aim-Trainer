@@ -23,7 +23,7 @@ public class Timer : MonoBehaviour
         timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
 
         // If time runs out, reload the first scene (scene index 0)
-        if (remainingTime <= 1)
+        if (remainingTime <= 1 || Input.GetKeyDown("escape"))
         {
             SceneManager.LoadScene(0);
         }
