@@ -81,6 +81,8 @@ Locks the cursor to the crosshair and links mouse X & Y movement to camera movem
 - The first script that runs on game start will unlock the cursor and make it visible to allow it to move again if returning from the game.
 - Using functions will load the game scene when the start button is pressed.
 - While not in a script itself, the settings button has code set in the editor to make the settings menu active while deactivating the main menu; the exit button in the menu will do the inverse.
+### Quit Game
+- quits the game when the quit button is pressed
 
 ---
 
