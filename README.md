@@ -1,6 +1,6 @@
 # Cs50FinalProject-Arrow-Aim-Trainer
 
-## VIDEO DEMO: [(https://youtu.be/pcn-HaFTrts)]
+## VIDEO DEMO: <[(https://youtu.be/pcn-HaFTrts)]>
 
 ## Description
 
